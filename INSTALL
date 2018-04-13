@@ -1,0 +1,9 @@
+Building Zephside
+
+See doc/readme-qt.rst for instructions on building Zephside-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Zephside.
+
+See doc/build-*.txt for instructions on building zephsided,
+the intended-for-services, no-graphical-interface, reference
+implementation of Zephside.
